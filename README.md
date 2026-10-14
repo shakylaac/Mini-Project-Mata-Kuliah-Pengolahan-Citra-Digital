@@ -1,4 +1,4 @@
-# DETEKSI UANG KERTAS ASLI ATAU PALSU MENGGUNAKAN EKSTRAKSI FITUR WARNA, TEKSTUR, DAN TEPI BERBASIS METODE RULE-BASED
+# Deteksi Uang Kertas Asli Atau Palsu Menggunakan Ekstraksi Fitur Warna, Tekstur, dan Tepi Berbasis Metode Rule-Based
 
 ## Deskripsi Proyek
 Proyek ini bertujuan untuk mengembangkan sistem deteksi uang kertas asli atau palsu melalui analisis citra digital. Sistem menggunakan pendekatan pengolahan citra dengan memanfaatkan fitur warna, tekstur, dan tepi untuk mengidentifikasi karakteristik visual pada uang kertas.
